@@ -15,4 +15,5 @@ if (isset($goto))
 	echo $goto;
 	header("Location: $goto");
 }
+echo "see the changes";
 ?>
